@@ -1,0 +1,13 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/diamond_sword"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/skins/sword/sint" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/skins/sword/wrench" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/skins/sword/brush" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/skins/sword/paint_roller" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/skins/sword/potassium" }
+	]
+}

@@ -1,0 +1,125 @@
+# OVERDRACHT MET INCREMENTS VAN 1 -------------------------------------------------------------------------------------------------------------------------------------------------
+execute if score FireHeart27 Badge_Acacia matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Acacia 1	
+execute if score FireHeart27 Badge_Acacia matches 1.. run scoreboard players remove FireHeart27 Badge_Acacia 1
+
+scoreboard players operation FireHeartsBaxdee ticks += FireHeart27 ticks
+
+
+execute if score FireHeart27 Badge_Bedtimes matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Bedtimes 1	
+execute if score FireHeart27 Badge_Bedtimes matches 1.. run scoreboard players remove FireHeart27 Badge_Bedtimes 1
+
+execute if score FireHeart27 Badge_Birch matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Birch 1	
+execute if score FireHeart27 Badge_Birch matches 1.. run scoreboard players remove FireHeart27 Badge_Birch 1
+
+execute if score FireHeart27 Badge_Blaze matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Blaze 1	
+execute if score FireHeart27 Badge_Blaze matches 1.. run scoreboard players remove FireHeart27 Badge_Blaze 1
+
+execute if score FireHeart27 Badge_Boat matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Boat 1	
+execute if score FireHeart27 Badge_Boat matches 1.. run scoreboard players remove FireHeart27 Badge_Boat 1
+
+execute if score FireHeart27 Badge_Creeper matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Creeper 1	
+execute if score FireHeart27 Badge_Creeper matches 1.. run scoreboard players remove FireHeart27 Badge_Creeper 1
+
+execute if score FireHeart27 Badge_Dark_Oak matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Dark_Oak 1	
+execute if score FireHeart27 Badge_Dark_Oak matches 1.. run scoreboard players remove FireHeart27 Badge_Dark_Oak 1
+
+execute if score FireHeart27 Badge_Dragon matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Dragon 1	
+execute if score FireHeart27 Badge_Dragon matches 1.. run scoreboard players remove FireHeart27 Badge_Dragon 1
+
+execute if score FireHeart27 Badge_Elytra matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Elytra 1	
+execute if score FireHeart27 Badge_Elytra matches 1.. run scoreboard players remove FireHeart27 Badge_Elytra 1
+
+execute if score FireHeart27 Badge_Enderman matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Enderman 1	
+execute if score FireHeart27 Badge_Enderman matches 1.. run scoreboard players remove FireHeart27 Badge_Enderman 1
+
+execute if score FireHeart27 Badge_Drass_dirt matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Drass_dirt 1	
+execute if score FireHeart27 Badge_Drass_dirt matches 1.. run scoreboard players remove FireHeart27 Badge_Drass_dirt 1
+
+execute if score FireHeart27 Badge_Gravel matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Gravel 1	
+execute if score FireHeart27 Badge_Gravel matches 1.. run scoreboard players remove FireHeart27 Badge_Gravel 1
+
+execute if score FireHeart27 Badge_Guardian matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Guardian 1	
+execute if score FireHeart27 Badge_Guardian matches 1.. run scoreboard players remove FireHeart27 Badge_Guardian 1
+
+execute if score FireHeart27 Badge_Horse matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Horse 1	
+execute if score FireHeart27 Badge_Horse matches 1.. run scoreboard players remove FireHeart27 Badge_Horse 1
+
+execute if score FireHeart27 Badge_Jungle matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Jungle 1	
+execute if score FireHeart27 Badge_Jungle matches 1.. run scoreboard players remove FireHeart27 Badge_Jungle 1
+
+execute if score FireHeart27 Badge_Oak matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Oak 1	
+execute if score FireHeart27 Badge_Oak matches 1.. run scoreboard players remove FireHeart27 Badge_Oak 1
+
+execute if score FireHeart27 Badge_Oak matches 1.. run scoreboard players add FireHeartsBaxdee Badge_oak 1	
+execute if score FireHeart27 Badge_Oak matches 1.. run scoreboard players remove FireHeart27 Badge_oak 1
+
+execute if score FireHeart27 Badge_Pig matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Pig 1	
+execute if score FireHeart27 Badge_Pig matches 1.. run scoreboard players remove FireHeart27 Badge_Pig 1
+
+execute if score FireHeart27 Badge_Sand matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Sand 1	
+execute if score FireHeart27 Badge_Sand matches 1.. run scoreboard players remove FireHeart27 Badge_Sand 1
+
+execute if score FireHeart27 Badge_Shulker matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Shulker 1	
+execute if score FireHeart27 Badge_Shulker matches 1.. run scoreboard players remove FireHeart27 Badge_Shulker 1
+
+execute if score FireHeart27 Badge_Skeleton matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Skeleton 1	
+execute if score FireHeart27 Badge_Skeleton matches 1.. run scoreboard players remove FireHeart27 Badge_Skeleton 1
+
+execute if score FireHeart27 Badge_Spider matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Spider 1	
+execute if score FireHeart27 Badge_Spider matches 1.. run scoreboard players remove FireHeart27 Badge_Spider 1
+
+execute if score FireHeart27 Badge_Spruce matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Spruce 1	
+execute if score FireHeart27 Badge_Spruce matches 1.. run scoreboard players remove FireHeart27 Badge_Spruce 1
+
+execute if score FireHeart27 Badge_Stone matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Stone 1	
+execute if score FireHeart27 Badge_Stone matches 1.. run scoreboard players remove FireHeart27 Badge_Stone 1
+
+execute if score FireHeart27 Badge_Walk matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Walk 1	
+execute if score FireHeart27 Badge_Walk matches 1.. run scoreboard players remove FireHeart27 Badge_Walk 1
+
+execute if score FireHeart27 Badge_Wither matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Wither 1	
+execute if score FireHeart27 Badge_Wither matches 1.. run scoreboard players remove FireHeart27 Badge_Wither 1
+
+execute if score FireHeart27 Badge_WSkeleton matches 1.. run scoreboard players add FireHeartsBaxdee Badge_WSkeleton 1	
+execute if score FireHeart27 Badge_WSkeleton matches 1.. run scoreboard players remove FireHeart27 Badge_WSkeleton 1
+
+execute if score FireHeart27 Badge_Zombie matches 1.. run scoreboard players add FireHeartsBaxdee Badge_Zombie 1	
+execute if score FireHeart27 Badge_Zombie matches 1.. run scoreboard players remove FireHeart27 Badge_Zombie 1
+
+execute if score FireHeart27 Legacy_Damage matches 1.. run scoreboard players add FireHeartsBaxdee Legacy_Damage 1	
+execute if score FireHeart27 Legacy_Damage matches 1.. run scoreboard players remove FireHeart27 Legacy_Damage 1
+
+execute if score FireHeart27 Legacy_Deaths matches 1.. run scoreboard players add FireHeartsBaxdee Legacy_Deaths 1	
+execute if score FireHeart27 Legacy_Deaths matches 1.. run scoreboard players remove FireHeart27 Legacy_Deaths 1
+
+execute if score FireHeart27 Legacy_Fall matches 1.. run scoreboard players add FireHeartsBaxdee Legacy_Fall 1	
+execute if score FireHeart27 Legacy_Fall matches 1.. run scoreboard players remove FireHeart27 Legacy_Fall 1
+
+execute if score FireHeart27 Legacy_fish matches 1.. run scoreboard players add FireHeartsBaxdee Legacy_fish 1	
+execute if score FireHeart27 Legacy_fish matches 1.. run scoreboard players remove FireHeart27 Legacy_fish 1
+
+execute if score FireHeart27 Legacy_Flight matches 1.. run scoreboard players add FireHeartsBaxdee Legacy_Flight 1	
+execute if score FireHeart27 Legacy_Flight matches 1.. run scoreboard players remove FireHeart27 Legacy_Flight 1
+
+execute if score FireHeart27 Legacy_Kills matches 1.. run scoreboard players add FireHeartsBaxdee Legacy_Kills 1	
+execute if score FireHeart27 Legacy_Kills matches 1.. run scoreboard players remove FireHeart27 Legacy_Kills 1
+
+execute if score FireHeart27 Legacy_Life matches 1.. run scoreboard players add FireHeartsBaxdee Legacy_Life 1	
+execute if score FireHeart27 Legacy_Life matches 1.. run scoreboard players remove FireHeart27 Legacy_Life 1
+
+execute if score FireHeart27 Legacy_Sleep matches 1.. run scoreboard players add FireHeartsBaxdee Legacy_Sleep 1	
+execute if score FireHeart27 Legacy_Sleep matches 1.. run scoreboard players remove FireHeart27 Legacy_Sleep 1
+
+execute if score FireHeart27 Legacy_Ticks matches 1.. run scoreboard players add FireHeartsBaxdee Legacy_Ticks 1	
+execute if score FireHeart27 Legacy_Ticks matches 1.. run scoreboard players remove FireHeart27 Legacy_Ticks 1
+
+execute if score FireHeart27 bedtimes matches 1.. run scoreboard players add FireHeartsBaxdee bedtimes 1	
+execute if score FireHeart27 bedtimes matches 1.. run scoreboard players remove FireHeart27 bedtimes 1
+
+execute if score FireHeart27 list matches 1.. run scoreboard players add FireHeartsBaxdee list 1	
+execute if score FireHeart27 list matches 1.. run scoreboard players remove FireHeart27 list 1
+
+
+
+
+

@@ -1,0 +1,16 @@
+{
+	"texture": "textures/entity/armorstand/npc",
+	"textureSize": [32, 32],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-1, -1, -2, 4, 12, 4],
+			"uvNorth": [4, 10, 2, 16],
+			"uvEast": [6, 10, 4, 16],
+			"uvSouth": [20, 10, 18, 16],
+			"uvWest": [18, 10, 16, 16],
+			"uvUp": [6, 10, 4, 8],
+			"uvDown": [4, 8, 2, 10]
+		}
+	]
+}

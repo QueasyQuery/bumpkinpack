@@ -1,0 +1,22 @@
+{
+	"parent": "item/generated",
+    "textures": {
+        "layer0": "item/jigsaw"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/jigsaw/b_dirt" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/jigsaw/b_stone" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/jigsaw/b_iron" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/jigsaw/b_gold" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/jigsaw/b_diamond" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/jigsaw/b_emerald" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/jigsaw/crate_basic" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/jigsaw/crate_rare" },
+		{ "predicate": { "custom_model_data": 9}, "model": "item/jigsaw/crate_epic" },
+		{ "predicate": { "custom_model_data": 10}, "model": "item/jigsaw/crate_legendary" },
+		{ "predicate": { "custom_model_data": 11}, "model": "item/jigsaw/crate_mythic" },
+		{ "predicate": { "custom_model_data": 12}, "model": "item/jigsaw/crate_event" },
+		{ "predicate": { "custom_model_data": 13}, "model": "item/jigsaw/ct"},
+		{ "predicate": { "custom_model_data": 14}, "model": "item/misc/fog"}
+	]
+}

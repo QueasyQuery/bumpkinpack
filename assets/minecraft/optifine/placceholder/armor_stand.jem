@@ -1,0 +1,49 @@
+{
+  "models": 
+  [
+    {
+      "model": "npcbody.jpm",
+      "part": "body", 
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "npchead.jpm",
+      "part": "head", 
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{  
+	  "model": "npcleftarm.jpm",
+      "part": "left_arm", 
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0],
+	   "animations":
+      [
+        {
+		 "this.rz": "270.125 - (sin(time / 13) / 18)",
+		  "this.rx": "-(sin(time / 23) / 18) + right_leg.rx"
+        }
+      ]
+    },
+	
+	{
+      "model": "npcrightarm.jpm",
+      "part": "right_arm", 
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0],
+	   "animations":
+      [
+        {
+		   "this.rz": "270.235 + (sin(time / 13) / 18)",
+		  "this.rx": "(sin(time / 23) / 18) + left_leg.rx"
+        }
+      ]
+    }
+
+  ]
+}

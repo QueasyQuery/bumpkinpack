@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/gear/xmassocks",
+        "layer1": "item/gear/xmassocks_overlay"
+    }
+}

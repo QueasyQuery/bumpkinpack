@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/white_stained_glass",
+  "overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/misc/fog_universal" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/misc/fog_max_high" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/misc/fog_2_low" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/misc/fog_2_high" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/misc/fog_1_low" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/misc/fog_1_high" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/misc/fog_3_low" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/misc/fog_3_high" },
+		{ "predicate": { "custom_model_data": 9}, "model": "item/misc/fog_4_low" },
+		{ "predicate": { "custom_model_data": 10}, "model": "item/misc/fog_4_high" },
+		{ "predicate": { "custom_model_data": 11}, "model": "item/misc/fog_5_low" },
+		{ "predicate": { "custom_model_data": 12}, "model": "item/misc/fog_5_high" }
+	]
+}

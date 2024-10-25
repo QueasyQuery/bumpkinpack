@@ -1,0 +1,34 @@
+{
+	"texture": "textures/entity/armorstand/npc",
+	"textureSize": [32, 32],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-4, 0, -2, 8, 12, 4],
+			"uvNorth": [10, 10, 14, 16],
+			"uvEast": [20, 10, 22, 16],
+			"uvSouth": [16, 10, 20, 16],
+			"uvWest": [26, 10, 28, 16],
+			"uvUp": [14, 10, 10, 8],
+			"uvDown": [14, 14, 10, 16]
+		},
+		{
+			"coordinates": [0, 12, -2, 4, 12, 4],
+			"uvNorth": [4, 10, 2, 16],
+			"uvEast": [6, 10, 4, 16],
+			"uvSouth": [8, 10, 6, 16],
+			"uvWest": [2, 10, 0, 16],
+			"uvUp": [6, 10, 4, 8],
+			"uvDown": [4, 8, 2, 10]
+		},
+		{
+			"coordinates": [-4, 12, -2, 4, 12, 4],
+			"uvNorth": [2, 10, 4, 16],
+			"uvEast": [0, 10, 2, 16],
+			"uvSouth": [6, 10, 8, 16],
+			"uvWest": [4, 10, 6, 16],
+			"uvUp": [6, 10, 4, 8],
+			"uvDown": [4, 8, 2, 10]
+		}
+	]
+}

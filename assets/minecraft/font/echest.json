@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+         "type": "bitmap",
+         "file": "minecraft:gui/custom/echest.png",
+         "ascent": 16,
+         "height": 256,
+         "chars": [
+            "\uDBFF\uDFF8"
+            ]
+        }					
+    ]
+}
