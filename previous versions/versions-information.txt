@@ -1,0 +1,104 @@
+V7.3.1:
+	Released: 25-10-2024
+	MC-Version: 1.21.x
+	Description: see releases
+V7.3.0:
+	Released: 28-05-2024
+	MC-Version: 1.20.5
+	Description: see releases
+V7.2.3:
+	Released: 19-05-2024
+	MC-Version: 1.20.5
+	Description: see releases
+V7.2.2:
+	Released: 24-04-2024
+	MC-Version: 1.20.1
+	Description: see releases
+V7.2.1b:
+	Released:
+	MC-Version: 
+	Description: see releases
+V7.2.0:
+	Released:
+	MC-Version: 
+	Description: see releases
+V7.1.3:
+	Released:
+	MC-Version: 
+	Description: see releases
+V7.1.2:
+	Released:
+	MC-Version: 
+	Description: see releases
+V7.0.0:
+	Released:
+	MC-Version: 
+	Description: see releases
+V:
+	Released:
+	MC-Version: 
+	Description:
+V:
+	Released:
+	MC-Version: 
+	Description:
+V:
+	Released:
+	MC-Version: 
+	Description:
+V:
+	Released:
+	MC-Version: 
+	Description:
+V:
+	Released:
+	MC-Version: 
+	Description:
+V:
+	Released:
+	MC-Version: 
+	Description:
+V:
+	Released:
+	MC-Version: 
+	Description:
+V:
+	Released:
+	MC-Version: 
+	Description:
+V:
+	Released:
+	MC-Version: 
+	Description:
+V:
+	Released:
+	MC-Version: 
+	Description:
+V:
+	Released:
+	MC-Version: 
+	Description:
+V:
+	Released:
+	MC-Version: 
+	Description:
+V:
+	Released:
+	MC-Version: 
+	Description:
+V:
+	Released:
+	MC-Version: 
+	Description:
+V:
+	Released:
+	MC-Version: 
+	Description:
+V:
+	Released:
+	MC-Version: 
+	Description:
+V:
+	Released:
+	MC-Version: 
+	Description:
