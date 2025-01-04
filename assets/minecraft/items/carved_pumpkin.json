@@ -1,0 +1,75 @@
+{
+	"model": {
+		"type": "select",
+		"property": "custom_model_data",
+		"fallback": {
+			"type": "model",
+			"model": "block/carved_pumpkin"
+		},
+		"cases": [
+			{
+				"when": "1",
+				"model": {
+					"type": "model",
+					"model": "item/skins/hat/kerstmuts"
+				}
+			},
+			{
+				"when": "2",
+				"model": {
+					"type": "model",
+					"model": "item/skins/hat/quizhat"
+				}
+			},
+			{
+				"when": "3",
+				"model": {
+					"type": "model",
+					"model": "item/skins/hat/spookyhat"
+				}
+			},
+			{
+				"when": "4",
+				"model": {
+					"type": "model",
+					"model": "item/skins/hat/ockyhalo"
+				}
+			},
+			{
+				"when": "5",
+				"model": {
+					"type": "model",
+					"model": "item/skins/hat/paper_bag"
+				}
+			},
+			{
+				"when": "6",
+				"model": {
+					"type": "model",
+					"model": "item/skins/hat/hay_hat"
+				}
+			},
+			{
+				"when": "7",
+				"model": {
+					"type": "model",
+					"model": "item/skins/hat/sprouthead"
+				}
+			},
+			{
+				"when": "8",
+				"model": {
+					"type": "model",
+					"model": "item/skins/hat/glasses"
+				}
+			},
+			{
+				"when": "9",
+				"model": {
+					"type": "model",
+					"model": "item/skins/hat/bart_mask"
+				}
+			}
+		]
+	}
+}

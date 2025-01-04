@@ -1,0 +1,75 @@
+{
+	"model": {
+		"type": "select",
+		"property": "custom_model_data",
+		"fallback": {
+			"type": "model",
+			"model": "item/netherite_sword"
+		},
+		"cases": [
+			{
+				"when": "1",
+				"model": {
+					"type": "model",
+					"model": "item/skins/sword/sint"
+				}
+			},
+			{
+				"when": "2",
+				"model": {
+					"type": "model",
+					"model": "item/skins/sword/wrench"
+				}
+			},
+			{
+				"when": "3",
+				"model": {
+					"type": "model",
+					"model": "item/skins/sword/brush"
+				}
+			},
+			{
+				"when": "4",
+				"model": {
+					"type": "model",
+					"model": "item/skins/sword/paint_roller"
+				}
+			},
+			{
+				"when": "5",
+				"model": {
+					"type": "model",
+					"model": "item/skins/sword/potassium"
+				}
+			},
+			{
+				"when": "6",
+				"model": {
+					"type": "model",
+					"model": "item/skins/sword/witches_broom"
+				}
+			},
+			{
+				"when": "7",
+				"model": {
+					"type": "model",
+					"model": "item/skins/sword/chainsaw"
+				}
+			},
+			{
+				"when": "8",
+				"model": {
+					"type": "model",
+					"model": "item/skins/sword/toy_hammer"
+				}
+			},
+			{
+				"when": "9",
+				"model": {
+					"type": "model",
+					"model": "item/skins/sword/kitchen_knife"
+				}
+			}
+		]
+	}
+}

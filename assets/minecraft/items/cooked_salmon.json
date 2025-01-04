@@ -1,0 +1,19 @@
+{
+	"model": {
+		"type": "select",
+		"property": "custom_model_data",
+		"fallback": {
+			"type": "model",
+			"model": "item/cooked_salmon"
+		},
+		"cases": [
+			{
+				"when": "1",
+				"model": {
+					"type": "model",
+					"model": "item/cooked_salmon/1"
+				}
+			}
+		]
+	}
+}

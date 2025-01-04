@@ -1,0 +1,117 @@
+{
+	"model": {
+		"type": "select",
+		"property": "custom_model_data",
+		"fallback": {
+			"type": "model",
+			"model": "item/iron_nugget"
+		},
+		"cases": [
+			{
+				"when": "1",
+				"model": {
+					"type": "model",
+					"model": "item/iron_nugget/dirthole"
+				}
+			},
+			{
+				"when": "2",
+				"model": {
+					"type": "model",
+					"model": "item/iron_nugget/schatzoeker"
+				}
+			},
+			{
+				"when": "3",
+				"model": {
+					"type": "model",
+					"model": "item/iron_nugget/art"
+				}
+			},
+			{
+				"when": "4",
+				"model": {
+					"type": "model",
+					"model": "item/iron_nugget/newhome"
+				}
+			},
+			{
+				"when": "5",
+				"model": {
+					"type": "model",
+					"model": "item/iron_nugget/aboveground"
+				}
+			},
+			{
+				"when": "6",
+				"model": {
+					"type": "model",
+					"model": "item/iron_nugget/puzzler"
+				}
+			},
+			{
+				"when": "7",
+				"model": {
+					"type": "model",
+					"model": "item/iron_nugget/banana"
+				}
+			},
+			{
+				"when": "8",
+				"model": {
+					"type": "model",
+					"model": "item/iron_nugget/cat"
+				}
+			},
+			{
+				"when": "9",
+				"model": {
+					"type": "model",
+					"model": "item/iron_nugget/fish"
+				}
+			},
+			{
+				"when": "10",
+				"model": {
+					"type": "model",
+					"model": "item/iron_nugget/flower"
+				}
+			},
+			{
+				"when": "11",
+				"model": {
+					"type": "model",
+					"model": "item/iron_nugget/halloween"
+				}
+			},
+			{
+				"when": "12",
+				"model": {
+					"type": "model",
+					"model": "item/iron_nugget/orb"
+				}
+			},
+			{
+				"when": "13",
+				"model": {
+					"type": "model",
+					"model": "item/iron_nugget/potato"
+				}
+			},
+			{
+				"when": "14",
+				"model": {
+					"type": "model",
+					"model": "item/iron_nugget/pumpking"
+				}
+			},
+			{
+				"when": "15",
+				"model": {
+					"type": "model",
+					"model": "item/iron_nugget/vlieger"
+				}
+			}
+		]
+	}
+}

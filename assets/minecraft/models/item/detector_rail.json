@@ -1,5 +1,5 @@
 {
-    "parent": "item/generated",
+    "model": "item/generated",
     "textures": {
         "layer0": "block/detector_rail_on"
     }
