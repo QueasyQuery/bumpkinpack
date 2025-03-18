@@ -3538,7 +3538,6 @@
   "commands.ban.success": "Banned %s: %s",
   "commands.pardon.success": "Unbanned %s",
   "commands.particle.success": "Displaying particle %s",
-  "commands.seed.success": "Disabled on this version.",
   "commands.stop.stopping": "Stopping the server",
   "commands.time.query": "The time is %s",
   "commands.time.set": "Set the time to %s",
