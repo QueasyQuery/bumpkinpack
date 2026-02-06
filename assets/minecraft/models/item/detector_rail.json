@@ -1,6 +1,6 @@
 {
-    "model": "item/generated",
-    "textures": {
-        "layer0": "block/detector_rail_on"
-    }
+  "parent": "minecraft:item/_parent_bowl",
+  "textures": {
+    "layer0": "minecraft:block/detector_rail_on"
+  }
 }

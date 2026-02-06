@@ -1,6 +1,9 @@
 {
     "pack": {
-        "pack_format": 46,
-        "description": "Kijk naar de textuur op die kubussen!"
+        "description": "De Bumpkincraft™ Resource Pack voor echte Bumpkins™!!!!",
+        "pack_format": 15,
+        "supported_formats": {"min_inclusive": 15, "max_inclusive": 999},
+		"min_format": 15,
+		"max_format": 999
     }
 }
