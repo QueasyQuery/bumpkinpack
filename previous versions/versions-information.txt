@@ -1,3 +1,19 @@
+V7.5.0:
+	Released: 06-02-2026
+	MC-Version: 1.21.11
+	Description: see releases
+V7.4.1:
+	Released: 04-01-2025
+	MC-Version: 1.21.4+
+	Description: see releases
+V7.4.0:
+	Released: 25-10-2024
+	MC-Version: 1.21.4+
+	Description: see releases
+V7.3.2:
+	Released: 03-12-2024
+	MC-Version: 1.21.x
+	Description: see releases
 V7.3.1:
 	Released: 25-10-2024
 	MC-Version: 1.21.x
