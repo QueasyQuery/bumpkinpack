@@ -1,9 +1,9 @@
-#version 150
+#version 330
 
-#moj_import <minecraft:dynamictransforms.glsl>
-#moj_import <minecraft:globals.glsl>
+#include <minecraft:dynamictransforms.glsl>
+#include <minecraft:globals.glsl>
 
-out vec4 fragColor;
+layout(location = 0) out vec4 fragColor;
 
 vec4 lerp_vec4(vec4 a, vec4 b, float t) {
     if (t < 0.0f) t = 0.0f;
@@ -18,7 +18,7 @@ vec4 lerp_vec4(vec4 a, vec4 b, float t) {
 }
 
 void main() {
-    const vec4 col1 = vec4(0.7, 0.7, 1, 0.5);
-    const vec4 col2 = vec4(1, 1, 1, 0.7); 
-    fragColor = lerp_vec4(col1, col2, (sin(GameTime * 2500 + 0.00001 * sqrt(pow(gl_FragCoord.x, 2) * pow(gl_FragCoord.y, 2))) + 1) * 0.5);
+    const vec4 col1 = vec4(0.7, 0.7, 1, 1);
+    const vec4 col2 = vec4(0.7, 0.7, 1, 0.5); 
+    fragColor = lerp_vec4(col1, col2, (sin(GameTime * 5000 + 0.00001 * sqrt(pow(gl_FragCoord.x, 2) * pow(gl_FragCoord.y, 2))) + 1) * 0.5);
 }
